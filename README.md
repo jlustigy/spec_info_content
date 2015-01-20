@@ -1,1 +1,1 @@
-# spectal_info_content
+# spec_info_content
